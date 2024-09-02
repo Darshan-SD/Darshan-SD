@@ -1,10 +1,20 @@
-# 👋 Hello, I'm Darshan Darji!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/imdarshannn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](http://www.codesip.tech/)
-[![Email](https://img.shields.io/badge/Email-darshandarji.code@gmail.com-red)](mailto:darshandarji.code@gmail.com)
-
----
+<section align="center">
+    <h1 align="center">👨‍💻 Darshan 📸</h1>
+    <div align="center">
+        <div>
+            <a href="https://www.linkedin.com/in/imdarshannn">
+                <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
+            </a>
+            <a href="mailto:darshandarji,code@gmail.com">
+                <img src="https://img.shields.io/badge/Email-darshandarji.code@gmail.com-red" alt="Email">
+            </a>
+            <a href="https://www.codesip.tech/">
+                <img src="https://img.shields.io/badge/Codesip-Visit-green" alt="Codesip">
+            </a>
+         </div>
+         <img src="https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Coding GIF">
+    </div>
+</section>
 
 ## 🚀 Skills & Technologies
 
@@ -29,28 +39,23 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux/Unix OS" />
 </p>
 
----
-
 ## 🌟 Projects
 ### Codesip: Your Development Companion  
-*Ongoing Project – [Visit Website](http://www.codesip.tech)*
+*Ongoing Project – [Visit Website](https://www.codesip.tech)*
 - An intelligent bot that shows live previews and code based on user prompts.
 - Developed using ReactJS for front-end and NodeJS for backend API development.
 
----
 
 ## 📜 Certifications
 - [Software Architecture](https://coursera.org/verify/ZS8AǪ22ǪF288)
 - [Machine Learning for All](https://coursera.org/verify/U4X9RBFWN6S2)
 
----
 
 ## 📈 GitHub Stats
-![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+<!-- ![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshan-SD&show_icons=true&theme=radical) -->
+![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshan-SD&show_icons=true&hide=issues&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan-SD&layout=compact&theme=radical)
 
----
 
 ## 📫 Let's Connect!
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/imdarshannn) or [Email](mailto:darshandarji2001@gmail.com). I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-![Thank You GIF](https://media.giphy.com/media/3o6fJ4SUZW3SeVwYb6/giphy.gif)
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/imdarshannn) or [Email](mailto:darshandarji.code@gmail.com). I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
