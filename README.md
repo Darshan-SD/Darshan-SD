@@ -5,7 +5,7 @@
             <a href="https://www.linkedin.com/in/imdarshannn">
                 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
             </a>
-            <a href="mailto:darshandarji,code@gmail.com">
+            <a href="mailto:darshandarji.code@gmail.com">
                 <img src="https://img.shields.io/badge/Email-darshandarji.code@gmail.com-red" alt="Email">
             </a>
             <a href="https://www.codesip.tech/">
@@ -39,22 +39,30 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux/Unix OS" />
 </p>
 
-## 🌟 Projects
-### Codesip: Your Development Companion  
-*Ongoing Project – [Visit Website](https://www.codesip.tech)*
+## 🌟 On going Project
+### Codesip: Your Development Companion - [Visit Website](https://www.codesip.tech)
 - An intelligent bot that shows live previews and code based on user prompts.
 - Developed using ReactJS for front-end and NodeJS for backend API development.
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Darshan-SD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Darshan-SD&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan-SD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📜 Certifications
-- [Software Architecture](https://coursera.org/verify/ZS8AǪ22ǪF288)
-- [Machine Learning for All](https://coursera.org/verify/U4X9RBFWN6S2)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Darshan-SD&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🏆 Holopin Badges
+[![An image of @Darshan-SD's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshansd)](https://holopin.io/@darshansd)
 
-## 📈 GitHub Stats
-<!-- ![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshan-SD&show_icons=true&theme=radical) -->
-![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshan-SD&show_icons=true&hide=issues&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan-SD&layout=compact&theme=radical)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Darshan-SD&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Darshan-SD&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 📫 Let's Connect!
