@@ -8,8 +8,8 @@
             <a href="mailto:darshandarji.code@gmail.com">
                 <img src="https://img.shields.io/badge/Email-darshandarji.code@gmail.com-red" alt="Email">
             </a>
-            <a href="https://www.codesip.tech/">
-                <img src="https://img.shields.io/badge/Codesip-Visit-green" alt="Codesip">
+            <a href="https://darshandarji.dev/">
+                <img src="https://img.shields.io/badge/Portfolio-Visit-green" alt="Portfolio">
             </a>
          </div>
          <img src="https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Coding GIF">
@@ -38,11 +38,6 @@
     <img src="https://img.shields.io/badge/Postman-FF670F?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux/Unix OS" />
 </p>
-
-## 🌟 On going Project
-### Codesip: Your Development Companion - [Visit Website](https://www.codesip.tech)
-- An intelligent bot that shows live previews and code based on user prompts.
-- Developed using ReactJS for front-end and NodeJS for backend API development.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Darshan-SD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
